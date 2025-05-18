@@ -1,0 +1,8 @@
+'13.5' is not a valid integer.
+21 is 10101 in binary.
+'' is not a valid integer.
+1 is 1 in binary.
+'Hello' is not a valid integer.
+'-8' is negative.
+7 is 111 in binary.
+0 is 0 in binary.

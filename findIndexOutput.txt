@@ -1,0 +1,3 @@
+'d' is not found in 'My name is Noah.'.
+'d' is first found at index 19 of 'What is on your mind?'
+'d' is first found at index 14 of 'Do not eat candy!'
